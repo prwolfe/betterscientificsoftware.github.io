@@ -10,7 +10,7 @@ Website | https://www.vice.com/en_us/article/43zak3/the-internet-was-built-on-th
 Focus | Funding open source software development.
 
 Much of modern HPC software is underpinned by Open Source - be that the [Linux Kernel](https://github.com/torvalds/linux), [Tensorflow](https://github.com/tensorflow/tensorflow), [SuperLU](https://github.com/xiaoyeli/superlu), or others.
-Yet treating the availability of that software as an externality means taking on the risk that said software has flaws that may impair your own work.
+Yet treating the availability of that software as an externality means taking on the associated risks such as show-stopper defects that may impair your own work or other more influential stakeholders pulling it in directions contrary to your own needs
 
 Daniel Oberhaus explores the problems in this model using the now infamous "Heartbleed Bug" tracing it's introduction into openSSL through to the final discovery and fix.
 Along the way he looks at the cost estimates for dealing with the bug ([~ $500 Million](https://www.eweek.com/security/heartbleed-ssl-flaw-s-true-cost-will-take-time-to-tally)) and compares that to the development budget for openSSL at the time ([$2000/year](http://veridicalsystems.com/blog/of-money-responsibility-and-pride)).
